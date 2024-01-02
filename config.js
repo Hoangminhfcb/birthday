@@ -22,13 +22,13 @@ var config = {
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "Nhấn vào",
-        play: "Bắt đầu",
+        turn_on: "Mở Đèn",
+        play: "Bật Nhạc",
         bannar_coming: "Wish you all",
-        balloons_flying: "好像少点东西",
-        cake_fadein: "蛋糕？",
-        light_candle: "蜡烛？",
-        wish_message: "生日快乐",
+        balloons_flying: "Tiếp tục",
+        cake_fadein: "Hình như thiếu gì đó？",
+        light_candle: "Thắp nến",
+        wish_message: "Happy birthday",
         story: "A MESSAGE FOR YOU",
     }
 };
